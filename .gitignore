@@ -1,0 +1,1 @@
+# Dependencias\n/node_modules\n/.pnp\n.pnp.js\n\n# Archivos de entorno\n.env\n.env.*\n!.env.example\n\n# Logs\nlogs\n*.log\nnpm-debug.log*\nyarn-debug.log*\nyarn-error.log*\nlerna-debug.log*\n\n# Archivos de sistema operativo\n.DS_Store\nThumbs.db\n\n# Build directorios\n/dist\n/build
